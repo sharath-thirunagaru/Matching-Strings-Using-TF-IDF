@@ -1,4 +1,4 @@
-#Read a file and write tokens into a new file for the required columns given
+#This programs takes input reffile, srcfile, testline
 
 import sys
 
